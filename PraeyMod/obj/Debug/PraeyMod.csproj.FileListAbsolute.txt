@@ -1,0 +1,6 @@
+C:\Users\mugen\RiderProjects\PraeyMod\PraeyMod\bin\Debug\PraeyMod.dll
+C:\Users\mugen\RiderProjects\PraeyMod\PraeyMod\bin\Debug\PraeyMod.pdb
+C:\Users\mugen\RiderProjects\PraeyMod\PraeyMod\obj\Debug\PraeyMod.csproj.AssemblyReference.cache
+C:\Users\mugen\RiderProjects\PraeyMod\PraeyMod\obj\Debug\PraeyMod.csproj.CoreCompileInputs.cache
+C:\Users\mugen\RiderProjects\PraeyMod\PraeyMod\obj\Debug\PraeyMod.dll
+C:\Users\mugen\RiderProjects\PraeyMod\PraeyMod\obj\Debug\PraeyMod.pdb
